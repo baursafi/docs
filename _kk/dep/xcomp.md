@@ -11,7 +11,7 @@ known as subject control). Note that the subject of the complementing clause mus
 the *subject* of the complemented verb, not any other sentence element.
 
 ~~~ sdparse
-Ол Азаматты табуға әрекет етіп жүр . \n She Azamat finding activity doing is .
+Ол Азаматты табуға әрекет етіп жүр . \n S/he is trying to find Azamat .
 xcomp(етіп-5, табуға-3)
 nsubj(етіп-5, Ол-1)
 obj(табуға-3, Азаматты-2)
